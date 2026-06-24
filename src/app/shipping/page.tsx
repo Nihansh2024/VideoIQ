@@ -52,7 +52,7 @@ const sections = [
     id: "delivery-issues",
     title: "5. Delivery Issues and Failures",
     body: [
-      "If you experience any of the following issues, please contact us at support@videoiq.app immediately: (a) subscription not activated after successful payment; (b) PDF download fails repeatedly; (c) analytics dashboard returns errors or timeouts; (d) confirmation email not received within 30 minutes.",
+      "If you experience any of the following issues, please contact us at info.videoiq@gmail.com immediately: (a) subscription not activated after successful payment; (b) PDF download fails repeatedly; (c) analytics dashboard returns errors or timeouts; (d) confirmation email not received within 30 minutes.",
       "When reporting an issue, please include: your account email, the affected YouTube video URL (if applicable), a screenshot of the error, and the approximate time the issue occurred. This helps us diagnose and resolve the issue quickly.",
       "For subscription activation issues where payment was successful but activation did not occur, we will either activate your subscription manually within 24 hours or issue a full refund, at your preference.",
     ],
@@ -70,7 +70,7 @@ const sections = [
     id: "contact",
     title: "7. Contact Us",
     body: [
-      "If you have any questions about this Shipping Policy or experience any delivery issues, please contact us at support@videoiq.app or via our Contact Us page. Our support team operates Monday through Saturday, 9:00 AM to 7:00 PM IST, and aims to respond to all inquiries within 24 business hours.",
+      "If you have any questions about this Shipping Policy or experience any delivery issues, please contact us at info.videoiq@gmail.com or via our Contact Us page. Our support team operates Monday through Saturday, 9:00 AM to 7:00 PM IST, and aims to respond to all inquiries within 24 business hours.",
     ],
   },
 ];
