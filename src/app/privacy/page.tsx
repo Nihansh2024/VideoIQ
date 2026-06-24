@@ -63,7 +63,7 @@ const sections = [
     body: [
       "We retain personal data only as long as necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required by law. Account data is retained for the lifetime of your account plus 30 days after deletion. Payment records are retained for 7 years as required by Indian tax law.",
       "Anonymous, aggregated usage data may be retained indefinitely for product analytics and AI model training, as it can no longer be linked to an identifiable individual.",
-      "You may request early deletion of your account and associated data at any time by contacting privacy@videoiq.app. We will process such requests within 30 days, subject to legal retention obligations.",
+      "You may request early deletion of your account and associated data at any time by contacting info.videoiq@gmail.com. We will process such requests within 30 days, subject to legal retention obligations.",
     ],
   },
   {
@@ -71,7 +71,7 @@ const sections = [
     title: "7. Your Privacy Rights",
     body: [
       "Under the DPDP Act and similar regulations, you have the right to: (a) access the personal data we hold about you; (b) request correction of inaccurate or incomplete data; (c) request deletion of your personal data (\"right to be forgotten\"); (d) request a portable copy of your data in a structured, machine-readable format; (e) object to or restrict certain processing activities; and (f) withdraw consent for consent-based processing.",
-      "To exercise any of these rights, please email privacy@videoiq.app with the subject line \"Privacy Rights Request\" and include your account email. We will verify your identity before processing the request and respond within 30 days.",
+      "To exercise any of these rights, please email info.videoiq@gmail.com with the subject line \"Privacy Rights Request\" and include your account email. We will verify your identity before processing the request and respond within 30 days.",
       "If you are unsatisfied with our response, you have the right to lodge a complaint with the Data Protection Board of India or your local data protection authority.",
     ],
   },
@@ -148,7 +148,7 @@ export default function PrivacyPage() {
         <div className="mt-16 p-6 rounded-xl border border-border/50 bg-muted/30">
           <h3 className="font-semibold mb-2">Want to exercise your privacy rights?</h3>
           <p className="text-sm text-muted-foreground mb-4">
-            Email us at privacy@videoiq.app or use our contact form to get started.
+            Email us at info.videoiq@gmail.com or use our contact form to get started.
           </p>
           <Link href="/contact">
             <Button>Contact Our Privacy Team</Button>
