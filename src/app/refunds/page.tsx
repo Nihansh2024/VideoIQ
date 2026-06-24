@@ -44,7 +44,7 @@ const sections = [
     id: "how-to-request",
     title: "4. How to Request a Refund",
     body: [
-      "To request a refund, please email support@videoiq.app with the subject line \"Refund Request\" and include the following: (a) your account email address; (b) the Razorpay payment ID (starts with \"pay_\") shown on your confirmation email; (c) the date of purchase; (d) a brief reason for the request (optional but helpful).",
+      "To request a refund, please email info.videoiq@gmail.com with the subject line \"Refund Request\" and include the following: (a) your account email address; (b) the Razorpay payment ID (starts with \"pay_\") shown on your confirmation email; (c) the date of purchase; (d) a brief reason for the request (optional but helpful).",
       "Alternatively, you can use the Contact Us page on our website and select \"Refund Request\" as the topic. Our team will respond to all refund requests within 48 business hours with a decision.",
       "Approved refunds are processed back to the original payment method within 5-7 business days for UPI and net banking, and 7-10 business days for credit/debit cards. The exact credit posting time depends on your bank or payment provider and is outside our control.",
     ],
