@@ -28,16 +28,16 @@ const CONTACT_CARDS = [
   {
     icon: Mail,
     title: "Email Support",
-    primary: "support@videoiq.app",
+    primary: "info.videoiq@gmail.com",
     secondary: "General inquiries & technical support",
-    href: "mailto:support@videoiq.app",
+    href: "mailto:info.videoiq@gmail.com",
   },
   {
     icon: MessageSquare,
     title: "Privacy Team",
-    primary: "privacy@videoiq.app",
+    primary: "info.videoiq@gmail.com",
     secondary: "Data requests & privacy questions",
-    href: "mailto:privacy@videoiq.app",
+    href: "mailto:info.videoiq@gmail.com",
   },
   {
     icon: Clock,
@@ -49,8 +49,8 @@ const CONTACT_CARDS = [
   {
     icon: MapPin,
     title: "Office Address",
-    primary: "Bengaluru, Karnataka",
-    secondary: "India — 560001",
+    primary: "Pune, Maharashtra",
+    secondary: "India — 411014",
     href: undefined,
   },
 ];
@@ -74,7 +74,7 @@ export default function ContactPage() {
     const body = encodeURIComponent(
       `Name: ${form.name}\nEmail: ${form.email}\nTopic: ${form.topic}\n\nMessage:\n${form.message}`
     );
-    window.location.href = `mailto:support@videoiq.app?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:info.videoiq@gmail.com?subject=${subject}&body=${body}`;
     setSubmitted(true);
   };
 
@@ -137,7 +137,7 @@ export default function ContactPage() {
                 <h3 className="text-xl font-semibold mb-2">Your message is ready to send</h3>
                 <p className="text-sm text-muted-foreground mb-6 max-w-md mx-auto">
                   We've opened your email client with the message pre-filled. If nothing happened,
-                  please email us directly at support@videoiq.app.
+                  please email us directly at info.videoiq@gmail.com.
                 </p>
                 <Button variant="outline" onClick={() => setSubmitted(false)}>
                   Send Another Message
