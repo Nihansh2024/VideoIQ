@@ -25,7 +25,7 @@ const sections = [
     id: "cancellation",
     title: "2. Cancellation of Subscription",
     body: [
-      "You may cancel your Pro subscription at any time by visiting the account settings page in the application or by emailing support@videoiq.app from your registered email address. Cancellation requests are processed immediately and you will receive a confirmation email within 1 hour.",
+      "You may cancel your Pro subscription at any time by visiting the account settings page in the application or by emailing info.videoiq@gmail.com from your registered email address. Cancellation requests are processed immediately and you will receive a confirmation email within 1 hour.",
       "Canceling your subscription stops future billing cycles. You will continue to have access to all Pro features until the end of your current billing period (the date your next payment would have been charged). After that date, your account will automatically revert to the free tier.",
       "If you cancel during a free trial (if offered), no charges will be applied and your access will end when the trial period expires. We do not retain payment instruments after a trial cancellation unless you explicitly re-subscribe.",
     ],
@@ -62,7 +62,7 @@ const sections = [
     id: "chargebacks",
     title: "6. Chargebacks and Payment Disputes",
     body: [
-      "We encourage you to contact us at support@videoiq.app before initiating a chargeback with your bank or card issuer. Most disputes can be resolved more quickly through direct communication, and we are committed to finding a fair outcome.",
+      "We encourage you to contact us at info.videoiq@gmail.com before initiating a chargeback with your bank or card issuer. Most disputes can be resolved more quickly through direct communication, and we are committed to finding a fair outcome.",
       "If you initiate a chargeback without first contacting us, we may suspend your account pending investigation. Accounts are restored once the chargeback is resolved in our favor or refunded voluntarily.",
       "Fraudulent chargebacks (where the user continues using the Service after initiating a dispute) will result in permanent account termination and may be reported to relevant authorities.",
     ],
@@ -79,7 +79,7 @@ const sections = [
     id: "contact",
     title: "8. Contact Us",
     body: [
-      "If you have any questions about this Cancellation and Refund Policy or need help with a refund request, please contact us at support@videoiq.app or through our Contact Us page. Our support team operates Monday through Saturday, 9:00 AM to 7:00 PM IST.",
+      "If you have any questions about this Cancellation and Refund Policy or need help with a refund request, please contact us at info.videoiq@gmail.com or through our Contact Us page. Our support team operates Monday through Saturday, 9:00 AM to 7:00 PM IST.",
     ],
   },
 ];
@@ -123,7 +123,7 @@ export default function RefundsPage() {
         <div className="mt-16 p-6 rounded-xl border border-border/50 bg-muted/30">
           <h3 className="font-semibold mb-2">Need to cancel or request a refund?</h3>
           <p className="text-sm text-muted-foreground mb-4">
-            Email support@videoiq.app with your payment reference or use our contact form.
+            Email info.videoiq@gmail.com with your payment reference or use our contact form.
           </p>
           <Link href="/contact">
             <Button>Contact Support</Button>
