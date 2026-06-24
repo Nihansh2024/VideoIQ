@@ -35,7 +35,7 @@ const sections = [
     title: "3. User Eligibility and Accounts",
     body: [
       "You must be at least 13 years of age to use the Service. If you are between 13 and 18 years old, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf. Users in jurisdictions with a higher minimum age for digital consent must meet that higher threshold.",
-      "You are responsible for maintaining the confidentiality of any account credentials, payment instruments, and API keys associated with your use of the Service. You agree to notify us immediately at support@videoiq.app of any unauthorized access or security breach.",
+      "You are responsible for maintaining the confidentiality of any account credentials, payment instruments, and API keys associated with your use of the Service. You agree to notify us immediately at info.videoiq@gmail.com of any unauthorized access or security breach.",
       "We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us so we can promptly delete it.",
     ],
   },
@@ -96,7 +96,7 @@ const sections = [
     id: "termination",
     title: "10. Termination",
     body: [
-      "You may terminate your account or stop using the Service at any time by contacting support@videoiq.app. No refund will be issued for the remaining portion of any prepaid subscription period except as provided in our Cancellation and Refund Policy.",
+      "You may terminate your account or stop using the Service at any time by contacting info.videoiq@gmail.com. No refund will be issued for the remaining portion of any prepaid subscription period except as provided in our Cancellation and Refund Policy.",
       "We may suspend or terminate your access to the Service immediately, without prior notice or liability, if you breach these Terms, if we reasonably suspect fraudulent activity, or if required to comply with applicable law or a legal request.",
       "Upon termination, all licenses granted to you under these Terms will immediately cease. Sections that by their nature should survive termination (including intellectual property, disclaimer, limitation of liability, and governing law) shall remain in effect.",
     ],
